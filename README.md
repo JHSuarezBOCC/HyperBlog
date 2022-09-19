@@ -6,4 +6,7 @@ Un Blog increible para el curso de Git y Github de Platzi[ Curso de Git y Github
 * Todos los comandos existentes de Git.
 * El flujo de trabajo en Git.
 * El verdadre amor por las buenas practicas.
-* Trucos ,uy locos del profesor.
+* Trucos un poco locos del profesor.
+* Las multiples personalidades del profesor Freddy.
+* Crado por el increible Platzi Team.
+* Incluye ejemplos en Windows, Linux y Mac.
